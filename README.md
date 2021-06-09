@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DenaldM
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning to be a Full Stack Developer
+- 🌱 I’m currently learning to be a Full Stack Web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : dmetuku@gmail.com
 
