@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DenaldM
-- 👀 I’m interested in Web Development
+- 👀 I’m a Web Developer
 - 🌱 I’m currently learning to be a Full Stack Web Developer
 - 💞️ I’m looking to collaborate on with your projects
 - 📫 How to reach me : dmetuku@gmail.com
