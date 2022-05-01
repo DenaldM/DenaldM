@@ -1,5 +1,5 @@
 - 👋 Hello World, It's Denald Metuku
-- :computer: I’m a Web Developer
+- :computer: I’m a Front End Web Developer
 - :dart: Currently focusing on becoming a better web developer each day
 - :link: I’m looking to collaborate on with your projects
 - :email: How to reach me : dmetuku@gmail.com / denald.metuku@innvis.io
