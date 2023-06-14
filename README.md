@@ -1,12 +1,9 @@
 <h1 align="left">Hello, I am Denald Metuku</h1>
 <h2 align="left">Frontend Developer</h3>
-
-- 📫 How to reach me **dmetuku@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/denaldmetuku" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="denaldmetuku" height="30" width="40" /></a>
- <a href="mailto:dmetuku@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="denaldmetuku" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/denaldmetuku" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="denaldmetuku" height="30" width="40" /></a>
+ <a href="mailto:dmetuku@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="denaldmetuku" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
