@@ -11,4 +11,3 @@
 
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/denaldmetuku"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="denaldmetuku" /></a></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denaldm&show_icons=true&theme=onedark&locale=en&layout=compact" alt="denaldm" /></p>
