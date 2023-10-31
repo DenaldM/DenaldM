@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I am Denald Metuku</h1>
-<h2 align="left">Frontend Developer, currently working as Project Manager</h3>
+<h2 align="left">Frontend Developer, currently working as Technical Project Manager</h3>
 <h3 align="left">Contact with Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/denaldmetuku" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="denaldmetuku" height="30" width="40" /></a>
